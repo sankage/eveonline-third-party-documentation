@@ -20,7 +20,7 @@ Add a character to the fleet
 
 ### Route
 
-`/fleets/<fleet_id>/members/<character_id>`
+`/fleets/<fleet_id>/members/<character_id>/`
 
 ### PUT
 
