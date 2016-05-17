@@ -1,3 +1,4 @@
 # Fleets
 
-* [Fleet](fleet.md)
+* [Details](details.md)
+* [Members](members.md)
